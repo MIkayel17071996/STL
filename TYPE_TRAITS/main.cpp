@@ -1,5 +1,5 @@
 #include <iostream>
-#include <variant>
+#include <variant> // for testing is_union
 #include "Type_traits.tpp"
 
 enum class Color
