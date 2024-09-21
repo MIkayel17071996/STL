@@ -1,5 +1,5 @@
 #include <iostream>
-#include "array.hpp"
+#include "Array.hpp"
 #include "RandomAccessIterator.hpp"
 #include "ReverseIterator.hpp"
 

@@ -72,5 +72,5 @@ private: // DATA MEMBER
     value_type m_arr[SIZE];
 };
 
-#include "array.tpp"
+#include "Array.tpp"
 #endif // ARRAY_H

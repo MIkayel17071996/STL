@@ -5,7 +5,7 @@
 #include "stdexcept"
 #include <initializer_list>
 #include <iostream>
-#include "array.hpp"
+#include "Array.hpp"
 #include <algorithm>
 
 // Constructor with initializer_list
