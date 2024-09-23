@@ -25,6 +25,8 @@ typename InputIt<T>::const_reference InputIt<T>::operator*() const {
     return *m_ptr;
 }
 
+
+
 template <typename T>
 typename InputIt<T>::const_pointer InputIt<T>::operator->() const 
 {
